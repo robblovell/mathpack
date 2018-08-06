@@ -1,0 +1,1 @@
+#ifndef randhh#define randhh#define	MINRAND	-32767.0#define MAXRAND 32768.0extern double frand();extern void seed ();extern unsigned long RndSeed;#endif

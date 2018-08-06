@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rLatLon.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rLatLonint.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rLine.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rLine2D.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rMatrix.cpp
+rMatrix.h
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rMatrix.h
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rMatrix.h
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rPoint.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rPoint2D.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rPointi.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rRect.cpp
+rRect.h
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rRect.h
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rRect.h
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rVector.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rVectori.cpp
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rand.cpp
+rand.h
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rand.h
+
+/Users/robblovell/Documents/Eidea/Code/2018/mathpack/rand.h
+

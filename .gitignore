@@ -1,0 +1,6 @@
+.idea
+/buck-out/
+/.buckd/
+/buckaroo/
+BUCKAROO_DEPS
+.buckconfig.local
